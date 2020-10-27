@@ -1,0 +1,10 @@
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\bin\Debug\SuperMarkt.exe.config
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\bin\Debug\SuperMarkt.exe
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\bin\Debug\SuperMarkt.pdb
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.csprojAssemblyReference.cache
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.Form1.resources
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.Properties.Resources.resources
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.csproj.GenerateResource.cache
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.csproj.CoreCompileInputs.cache
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.exe
+C:\Users\DCV\source\repos\SuperMarkt\SuperMarkt\obj\Debug\SuperMarkt.pdb
